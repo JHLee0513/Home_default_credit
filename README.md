@@ -10,6 +10,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## The appraoch (with details)
 
+![alt text](https://github.com/JHLee0513/Home_default_credit/blob/master/HomeCredit_stacking_diagram.jpg)
+
 What things you need to install the software and how to install them
 
 ```
